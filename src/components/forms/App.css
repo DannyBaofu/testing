@@ -1,0 +1,13 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('https://i.pinimg.com/originals/c7/96/33/c7963310f6c3d28f9e3ad65c747afd0f.jpg');
+  background-size: cover;
+}
+
+.bg-imageRegister {
+  background-image: url('https://i.pinimg.com/originals/c7/96/33/c7963310f6c3d28f9e3ad65c747afd0f.jpg');
+  background-size: cover;
+}
